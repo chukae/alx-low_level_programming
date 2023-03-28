@@ -5,7 +5,7 @@
  * swap_int - Function swaps the values of two integers
  *
  * @a: pointer to integer value
- * @b: pointer to integer value 
+ * @b: pointer to integer value
  *
  * Return: Always void.
  */
